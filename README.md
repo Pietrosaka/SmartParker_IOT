@@ -5,7 +5,7 @@ Automação de pátios de motos com Visão Computacional: SmartParker detecta, l
 # SmartParker: Sistema Inteligente de Gestão de Estacionamento para Frotas de Motos
 
 <p align="center">
-  <img src="Capa.png" alt="Capa do Projeto - SmartParker" width="500">
+  <img src="Capa.png" alt="Logo SmartParker" width="100%">
 </p>
 
 
