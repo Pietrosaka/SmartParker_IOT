@@ -104,6 +104,14 @@ A prova de conceito demonstra a capacidade do sistema em:
 ### Exemplo de Saída Visual:
 
 ![Demonstração da Placa Detectada e Recortada](Demonstracao.png) 
-*Substitua esta imagem por uma captura de tela real do seu código rodando, mostrando a imagem original com o contorno e a placa recortada.*
+
 
 ### Exemplo de Saída no Console:
+
+--- Registrando no Oracle (Simulação) ---
+PLACA LIDA: BRA0S12
+TIPO DE PLACA: Mercosul (Moto)
+DATA E HORA DA LEITURA: 2025-05-24 01:33:32
+IMAGEM PROCESSADA: /content/placa.jpg
+STATUS DA OPERAÇÃO: SUCESSO
+--- Processamento Encerrado para: /content/placa.jpg ---
