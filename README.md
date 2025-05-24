@@ -103,7 +103,7 @@ A prova de conceito demonstra a capacidade do sistema em:
 
 ### Exemplo de Saída Visual:
 
-![Demonstração da Placa Detectada e Recortada](data/images/detect_and_crop_example.png) 
+![Demonstração da Placa Detectada e Recortada](Demostracao.png) 
 *Substitua esta imagem por uma captura de tela real do seu código rodando, mostrando a imagem original com o contorno e a placa recortada.*
 
 ### Exemplo de Saída no Console:
