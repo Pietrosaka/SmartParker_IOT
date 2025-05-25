@@ -1,12 +1,17 @@
 # SmartParker_IOT
 Automação de pátios de motos com Visão Computacional: SmartParker detecta, lê e registra placas de veículos, otimizando o controle de frotas e a segurança.
 
+🎓 Alunos 2tdspx:
+
+Caio Cesar – rm556331
+
+Guilherme Grizão – rm557958
+
+2tdspy:
+
+Pietro Cougo – rm555839
 
 # SmartParker: Sistema Inteligente de Gestão de Estacionamento para Frotas de Motos
-
-<p align="center">
-  <img src="Capa.png" alt="Banner SmartParker - Gestão Inteligente de Estacionamento" style="width: 100%; max-height: 200px; object-fit: cover;">
-</p>
 
 
 ## 📝 Descrição do Projeto
